@@ -1,0 +1,4 @@
+[debug] [godhelpme-test] Classpath dependencies List()
+[debug] [godhelpme-test] Dependencies from configurations List(godhelpme)
+[debug] Bloop wrote the configuration of project 'godhelpme-test' to '/home/tp/All/IdeaProjects/Scala Projects/godhelpme/.bloop/godhelpme-test.json'
+[success] Generated .bloop/godhelpme-test.json
